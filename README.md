@@ -1,6 +1,6 @@
 # curso-de-sintaxe-basica-em-JavaScript
 
-
+Projeto do Curso "Sintaxe básica em JavaScript" - apresentado a plataforma DIO.
 
 📋Plano de aulas  
 
