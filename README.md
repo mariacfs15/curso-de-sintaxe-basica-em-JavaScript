@@ -1,5 +1,7 @@
 # curso-de-sintaxe-basica-em-JavaScript
 
+
+
 📋Plano de aulas  
 
 → Aula 1 - O que danado é JavaScript?  ✅ 
